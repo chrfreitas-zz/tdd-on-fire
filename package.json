@@ -56,6 +56,5 @@
     "sinon-chai": "^2.14.0",
     "sinon-stub-promise": "^4.0.0",
     "webpack": "^3.11.0"
-  },
-  "dependencies": {}
+  }
 }
