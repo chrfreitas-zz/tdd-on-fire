@@ -7,7 +7,7 @@ export default {
   output: {
     path: join(__dirname, 'dist'),
     libraryTarget: 'umd',
-    library: 'spotifyWrapper',
+    library: 'tddOnFire',
   },
   devtool: 'source-map',
   module: {
